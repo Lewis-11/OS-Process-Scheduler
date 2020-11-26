@@ -33,10 +33,10 @@
   <a href="https://github.com/ignacioct/A*&CSPScheduling">
   </a>
 
-  <h3 align="center">C Process Scheduler</h3>
+  <h3 align="center">C++ Process Scheduler</h3>
 
   <p align="center">
-     Implementation of a C process scheduler for a simulation af asteroids collisions
+     Implementation of a C++ process scheduler for a simulation af asteroids collisions
     <br />
   </p>
 </p>
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this small project, a C Scheduler is implemented for solving two tasks:
+In this small project, a C++ Scheduler is implemented for solving two tasks:
 * The scheduler aims to solve a common problem of dealing with high priority queues and processes like in an Operative System.
 * The efficiency is tested by comparing results to an accurate simulation given where our output of collisios shoul match a specific pattern.
 
@@ -73,7 +73,8 @@ All the details about the problems and the implementation is detailed in the *re
 
 ### Built With
 
-* C
+* C++
+* Shell
 
 <!-- LICENSE -->
 ## License
